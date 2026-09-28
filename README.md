@@ -9,10 +9,10 @@
     <img src="https://komarev.com/ghpvc/?username=sumitpandey7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/sumitpandey7?tab=followers">
-    <img src="https://img.shields.io/github/followers/sumitpandey7?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/sumitpandey7?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
   </a>
   <a href="https://github.com/sumitpandey7?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sumitpandey7?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/sumitpandey7?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
   </a>
 </p>
 
@@ -27,8 +27,8 @@
 * 🚀 Interested in **Backend Development, APIs, Databases & System Design**
 * 🤖 Exploring **Artificial Intelligence & Machine Learning**
 * 📚 Strengthening my **Core Computer Science fundamentals**
-* 💡 Currently improving my problem-solving skills through consistent coding practice
-* 📈 Goal: Become a strong **Backend Developer & Problem Solver**
+* 💡 Improving my problem-solving skills through consistent coding practice
+* 🎯 Goal: Become a strong **Backend Developer & Problem Solver**
 
 ---
 
@@ -56,7 +56,7 @@
 
 <td width="50%" valign="top">
 
-### 🚀 Backend & CS
+### 🚀 Backend & Computer Science
 
 * Java Backend
 * Object-Oriented Programming
@@ -83,7 +83,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitpandey7&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
@@ -102,7 +102,7 @@
   <img src="https://streak-stats.demolab.com/?user=sumitpandey7&theme=tokyonight&hide_border=true" width="80%"/>
 </p>
 
-### 📌 Repository & Contribution Statistics
+### 📌 Profile Statistics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitpandey7&theme=tokyonight" width="48%"/>
@@ -111,7 +111,7 @@
 
 ---
 
-## 💻 Competitive Programming
+# 🏆 Competitive Programming
 
 <p align="center">
 
@@ -131,7 +131,7 @@
 
 ---
 
-## 📚 My Coding Journey
+# 📚 My Coding Journey
 
 <table align="center">
 <tr>
@@ -156,7 +156,7 @@
 
 <tr>
 <td>🗄️ Backend</td>
-<td>APIs • Databases • System Design</td>
+<td>REST APIs • Databases • System Design</td>
 </tr>
 
 <tr>
@@ -165,7 +165,7 @@
 </tr>
 
 <tr>
-<td>🤖 AI/ML</td>
+<td>🤖 AI / ML</td>
 <td>Exploring Machine Learning & Intelligent Systems</td>
 </tr>
 
@@ -173,31 +173,35 @@
 
 ---
 
-## ⭐ Featured Repositories
+# ⭐ Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/sumitpandey7/DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitpandey7&repo=DSA&theme=tokyonight&hide_border=true"/>
-  </a>
 
-  <a href="https://github.com/sumitpandey7/Coding-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitpandey7&repo=Coding-Practice&theme=tokyonight&hide_border=true"/>
-  </a>
+<a href="https://github.com/sumitpandey7/DSA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitpandey7&repo=DSA&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/sumitpandey7/Coding-Practice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitpandey7&repo=Coding-Practice&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/sumitpandey7/C-for-beginners">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitpandey7&repo=C-for-beginners&theme=tokyonight&hide_border=true"/>
-  </a>
 
-  <a href="https://github.com/sumitpandey7/CODING-BLOCKS-COMPETITIVE-CODING-COURSE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitpandey7&repo=CODING-BLOCKS-COMPETITIVE-CODING-COURSE&theme=tokyonight&hide_border=true"/>
-  </a>
+<a href="https://github.com/sumitpandey7/C-for-beginners">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitpandey7&repo=C-for-beginners&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/sumitpandey7/CODING-BLOCKS-COMPETITIVE-CODING-COURSE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sumitpandey7&repo=CODING-BLOCKS-COMPETITIVE-CODING-COURSE&theme=tokyonight&hide_border=true"/>
+</a>
+
 </p>
 
 ---
 
-## 🏆 GitHub Profile Trophy
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sumitpandey7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
@@ -205,21 +209,55 @@
 
 ---
 
-## 📈 My Goals
+# 🐍 Contribution Snake
 
-```text
-DSA & Competitive Programming  ████████████████████░░  90%
-Java                          ███████████████░░░░░░░  70%
-Backend Development           ███████████░░░░░░░░░░░  55%
-System Design                 ███████░░░░░░░░░░░░░░░  35%
-AI / Machine Learning         █████░░░░░░░░░░░░░░░░░  25%
-```
-
-> 🚀 Consistency beats intensity. Keep learning, keep solving, keep building.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumitpandey7/sumitpandey7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 📈 Currently Working On
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🧩 DSA
+
+Improving problem-solving skills through daily practice.
+
+</td>
+
+<td align="center" width="25%">
+
+### ☕ Java
+
+Learning Java and backend development.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Backend
+
+Learning APIs, databases and system design.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆 CP
+
+Practicing competitive programming regularly.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
